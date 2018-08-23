@@ -68,7 +68,7 @@
       }
     },
     {
-      "id": 921728737,
+      "id": 921728738,
       "title": "IPod Touch 8GB",
       "body_html": "<p>The iPod Touch has the iPhone's multi-touch interface, with a physical home button off the touch screen. The home screen has a list of buttons for the available applications.</p>",
       "vendor": "Apple",
@@ -80,11 +80,11 @@
       "template_suffix": null,
       "tags": "",
       "published_scope": "web",
-      "admin_graphql_api_id": "gid://shopify/Product/921728737",
+      "admin_graphql_api_id": "gid://shopify/Product/921728738",
       "options": [
         {
           "id": 891236591,
-          "product_id": 921728737,
+          "product_id": 921728738,
           "name": "Color",
           "position": 1,
           "values": [
